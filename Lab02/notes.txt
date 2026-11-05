@@ -1,1 +1,2 @@
 Notatki do zajęć Lab02
+Dodatkowa notatka z lokalnego klonu
